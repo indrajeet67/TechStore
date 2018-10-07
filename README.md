@@ -8,6 +8,7 @@ Gadgets for Sale on this Website such as Raspberry pi and Old Apple Macintosh.
 3. jQuery
 4. Java Script
 5. Bootstrap
+6. SQL
 
 ## Must Visit For Live Demo
 
