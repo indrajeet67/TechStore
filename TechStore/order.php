@@ -113,7 +113,7 @@
 	<div class="header">
 	  <div class="head-t">
 		 <div class="logo">
-			  <a href="index.php"><h1>Ecommerce <span>Shop</span></h1> </a>
+			  <a href="index.php"><h1>Tech<span>Store</span></h1> </a>
 		  </div>
 		  <div class="header_right">
 			<div class="cart box_1">
@@ -190,7 +190,8 @@
 								</div>	
 								<div class="col-md-7 single-text">
 									<div class="details-left-info simpleCart_shelfItem">
-									<form action="order_confirm.php" method="post">
+									<form action="
+									_confirm.php" method="post">
 									<fieldset>
 									<h2>Enter your details:</h2>
 									<br>
@@ -205,7 +206,7 @@
 									<input type="radio" checked> Cash on Delivery (COD)<br>
 									<input type="radio" disabled> Card Payment / Netbanking
 									<br><br>';
-									echo ".<input type='text' name='product_id' value='$product_id' hidden>";	
+									echo "<input type='text' name='product_id' value='$product_id' hidden>";	
 									echo '
 									<button type="submit">Order Now</button>
 									</form>	
