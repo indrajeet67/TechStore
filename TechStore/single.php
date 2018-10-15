@@ -3,7 +3,7 @@
 <head>
 <title>Tech Store</title>
 <script type="applijegleryion/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="css/gui.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
 <link href="css/style.css" rel='stylesheet' type='text/css' />	
 <script src="js/jquery-1.11.1.min.js"></script>
@@ -13,7 +13,7 @@
 <script>$(document).ready(function(){$(".megamenu").megamenu();});</script>
 <script src="js/menu_jquery.js"></script>
 <script src="js/simpleCart.min.js"> </script>
-<script src="js/bootstrap.js"> </script>
+<script src="js/gui.js"> </script>
 <!--web-fonts-->
  <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,300italic,600,700' rel='stylesheet' type='text/css'>
  <link href='//fonts.googleapis.com/css?family=Roboto+Slab:300,400,700' rel='stylesheet' type='text/css'>
@@ -100,7 +100,7 @@
 				</ul>
 			</div>
 			<div class="top_left">
-				<span class="top_right"> <a class="header_top" style ="color:white;" href="feedback.php">Feedback</style></a> | Call us : +91-9988776655</span>
+				<span class="top_right"> <a class="header_top" style ="color:white;" href="feedback.php">Feedback</style></a> | Call us : +91-9967059584</span>
 			</div>
 			<div class="clearfix"> </div>
 		</div>
@@ -193,7 +193,7 @@
 									</div>	
 									<div class="col-md-7 single-text">
 									<div class="details-left-info simpleCart_shelfItem">
-										<h3>Fashion Latest</h3>
+										<h3>Best Gadgets</h3>
 										<p class="availability">Availability: <span class="color">In stock</span></p>
 										<div class="price_single">
 											<span class="actual item_price">'.$row['p_name'].'--    Rs. '.$row['p_price'].'</span>
